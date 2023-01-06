@@ -1,0 +1,6 @@
+{
+    "name": "jaytula/testapp-railway-php",
+    "require": {
+        "php": ">= 8.2"
+    }
+}
